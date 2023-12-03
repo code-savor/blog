@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Send Me Location! – Send Me Location!</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Send Me Location!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sun, 03 Dec 2023 17:30:52 +0900</lastBuildDate>
+    
+	  <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
